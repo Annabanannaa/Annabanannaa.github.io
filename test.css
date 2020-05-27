@@ -17,7 +17,7 @@
   bottom: 0;
 
 
-  animation: test 4s 3s;
+  animation: test 5s 5s;
   -webkit-animation-fill-mode: forwards;
   transition-timing-function: ease-in-out;
 }
@@ -31,7 +31,7 @@
   font-size: 30px;
   color: #16a085;
 
-  animation: text 7s 3s;
+  animation: text 7s 5s;
   transition-timing-function: ease-in-out;
 }
 
@@ -56,12 +56,12 @@
   bottom: auto;
 
 
-  animation: test2 4s 3s;
+  animation: test2 5s 5s;
   -webkit-animation-fill-mode: both;
 }
 
 .test__text2 {
-  animation: text2 2s 3s;
+  animation: text2 3s 5s;
   -webkit-animation-fill-mode: both;
 }
 

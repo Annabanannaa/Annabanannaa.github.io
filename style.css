@@ -11,10 +11,11 @@ body {
 .wrapper {
   display: flex;
   justify-content: space-between;
+  margin: 40px;
 }
 
 .wrapper--test {
-  justify-content: flex-start;
+  justify-content: center;
 }
 
 /*скрол на странице жлеентов*/
